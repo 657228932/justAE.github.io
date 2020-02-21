@@ -21,7 +21,7 @@
 
 - <b>无线网卡在macOS 10.15下无法工作，需要更换1820A</b>
 - 独立显卡无法工作，因为macOS不支持Optimus技术
-  - 使用了 [SSDT-DDGPU](EFI/CLOVER/ACPI/patched/SSDT-DDGPU.dsl) 来禁用它以节省电量
+  - 使用了 [SSDT-DDGPU](https://github.com/daliansky/hackintoshEFI/CLOVER/ACPI/patched/SSDT-DDGPU.dsl) 来禁用它以节省电量
   
 - [x] 显卡(HD630)正常，笔记本无法驱动独显
 
