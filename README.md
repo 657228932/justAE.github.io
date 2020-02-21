@@ -13,7 +13,7 @@
 | 显示器   | 京东方 NV156FHM-N61 FHD 1920x1080 (15.6 英寸) |
 | 声卡     | 瑞昱 ALC269 (节点:18)                     |
 | 无线网卡     | 英特尔 无线 3160AC                              |
-| 有线网卡     | 瑞昱 8188/8180 千兆网卡                              |
+| 有线网卡     | Realtek RTL8168/8111 PCI-E Gigabit Ethernet Adapter PCI                             |
 | 读卡器   | 瑞昱 RTS5129/RTS5250S                      |
 
 
