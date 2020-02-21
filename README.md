@@ -54,6 +54,6 @@
 -未使用
 需要更多测试。。。
 
-![image](https://github.com/657228932/hackintosh/blob/master/EFI/1.png）
+![Image] (https://github.com/657228932/hackintosh/blob/master/EFI/1.png）
 
 
