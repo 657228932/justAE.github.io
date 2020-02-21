@@ -23,6 +23,24 @@
 - 独立显卡无法工作，因为macOS不支持Optimus技术
   - 使用了 [SSDT-DDGPU](EFI/CLOVER/ACPI/patched/SSDT-DDGPU.dsl) 来禁用它以节省电量
   
+- [x] 显卡(HD630)正常，笔记本无法驱动独显
+
+- [x] 网卡正常
+- [x] 无线网卡使用`BCM94352z`（DW1560），能正常使用蓝牙、WiFi
+
+- [x] USB3.0正常
+
+- [x] 亮度调节正常
+
+- [x] 睡眠正常
+
+- [x] 声卡alc269（ALC269驱动成功，id=18）
+
+- [x] 键盘小键盘正常使用
+
+- [x] ps/2触摸板
+
+- [x] 外接显示器hdmi接口不可用，可通过usb转hdmi
 
 
 
