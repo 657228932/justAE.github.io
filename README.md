@@ -54,7 +54,12 @@
 -未使用
 需要更多测试。。。
 
-
+https://github.com/657228932/hackintosh/blob/master/EFI/1.png
+https://github.com/657228932/hackintosh/blob/master/EFI/2.png
+https://github.com/657228932/hackintosh/blob/master/EFI/3.png
+https://github.com/657228932/hackintosh/blob/master/EFI/4png
+https://github.com/657228932/hackintosh/blob/master/EFI/5.png
+https://github.com/657228932/hackintosh/blob/master/EFI/6.png
 
 
 
