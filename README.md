@@ -55,7 +55,7 @@
 需要更多测试。。。
 
  ![image](https://github.com/657228932/hackintosh/blob/master/EFI/1.png）
-
+ ![Image](https://raw.githubusercontent.com/657228932/hackintosh/blob/master/EFI/1.png)
  ![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
 https://github.com/657228932/hackintosh/blob/master/EFI/2.png
 https://github.com/657228932/hackintosh/blob/master/EFI/3.png
